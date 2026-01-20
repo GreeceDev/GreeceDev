@@ -1,21 +1,24 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Greece+Dahal;Full+Stack+Web+Developer;Building+the+Web+with+Passion+💙" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Greece+Dahal;Full+Stack+Web+Developer;Building+the+Web+with+Passion+💙" 
+    alt="Typing SVG" 
+  />
 </p>
 
----
+<hr style="border:1px solid #1E90FF;">
 
 ## 👨‍💻 About Me
 
 I'm **Greece Dahal**, a **17-year-old Full Stack Web Developer** from **Itahari, Nepal 🇳🇵**.  
 I have an unwavering passion for **web development** and love turning ideas into real-world applications.
 
-My journey into coding started early, where I explored and mastered the **integration, customization, and scalability of modern tech stacks**. Over time, I’ve developed a strong foundation in both **frontend and backend development**, with a constant drive to learn, improve, and build impactful digital solutions.
+My journey into coding started early, exploring and mastering the **integration, customization, and scalability of modern tech stacks**. I enjoy building **responsive, clean, and interactive web apps** while learning **new frameworks and tools**.
 
-I enjoy:
+I love:
 - 🚀 Building scalable web applications  
 - 🧠 Learning new technologies & best practices  
-- 🎨 Creating clean, responsive UI/UX  
+- 🎨 Designing clean, responsive UI/UX  
 - 🔧 Solving real-world problems through code  
 
 ---
@@ -47,8 +50,8 @@ I enjoy:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GreeceCode&show_icons=true&theme=blue-white&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeceCode&layout=compact&theme=blue-white&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GreeceCode&show_icons=true&theme=blue-green&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeceCode&layout=compact&theme=blue-green&hide_border=true" height="170"/>
 </p>
 
 ---
