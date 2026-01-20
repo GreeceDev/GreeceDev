@@ -47,19 +47,19 @@ I love:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GreeceCode&show_icons=true&theme=blue-green&hide_border=true" height="170"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GreeceCode&show_icons=true&theme=blue-green&count_private=true&hide_border=true" height="170"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeceCode&layout=compact&theme=blue-green&hide_border=true" height="170"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GreeceCode&theme=flat&no-frame=true&row=1&column=6" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeceCode&theme=blue-green" />
 </p>
 
 ---
